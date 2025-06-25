@@ -1,0 +1,2 @@
+*.tif filter=lfs diff=lfs merge=lfs -text
+AIML_CropMapper/auxiliary_files/raster_files/EU_arable_areas_mask_3857.tif filter=lfs diff=lfs merge=lfs -text

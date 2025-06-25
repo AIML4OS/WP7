@@ -1,0 +1,7 @@
+{
+  "creodias_user_mail": "your CDSE email",
+  "creodias_user_password": "your CDSE password",
+  "download_directory": "F:\\AIML_CropMapper\\workingDir",
+  "geometry_directory": "regions",
+  "gpt_directory": "F:\\Program Files\\esa-snap\\bin\\gpt.exe"
+}
